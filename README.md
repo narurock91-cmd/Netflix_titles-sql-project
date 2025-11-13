@@ -1,1 +1,1 @@
-# Netflix_titles-sql-project
+# Netflix_titles movies and tv shows Data Analysis using SQL
